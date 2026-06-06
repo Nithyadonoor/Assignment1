@@ -1,0 +1,220 @@
+{
+  "cases": [
+    {
+      "case": {
+        "court-name": "SUPERIOR COURT",
+        "court-id": "SUPERIOR COURT",
+        "case-identifier": "13-CR-132",
+        "filed-date": "10/14/2013",
+        "next-court-date": "",
+        "active-warrant": ""
+      },
+      "parties": {
+        "party-id": "",
+        "name": "WALLER, MATTHEW JAMES",
+        "alias": "",
+        "date-of-birth": "",
+        "address": "",
+        "gender": "",
+        "race": "",
+        "height": "",
+        "weight": "",
+        "hair-color": "",
+        "eye-color": "",
+        "dl-number": "",
+        "state-id": "",
+        "other-id": ""
+      },
+      "charges": [
+        {
+          "charge-id": "1",
+          "offense-date": "6/6/2013",
+          "description": "FORGERY FIRST DEGREE",
+          "disposition": "GUILTY PLEA",
+          "disposition-date": "11/18/2013",
+          "severity": "F",
+          "statute": "16-9-1",
+          "party-id": ""
+        },
+        {
+          "charge-id": "2",
+          "offense-date": "6/6/2013",
+          "description": "FORGERY FIRST DEGREE",
+          "disposition": "GUILTY PLEA",
+          "disposition-date": "11/18/2013",
+          "severity": "F",
+          "statute": "16-9-1",
+          "party-id": ""
+        },
+        {
+          "charge-id": "3",
+          "offense-date": "6/6/2013",
+          "description": "FORGERY FIRST DEGREE",
+          "disposition": "GUILTY PLEA",
+          "disposition-date": "11/18/2013",
+          "severity": "F",
+          "statute": "16-9-1",
+          "party-id": ""
+        }
+      ],
+      "sentencing": {
+        "charge-id": "",
+        "license-suspension": "",
+        "community-service": "",
+        "probation": "",
+        "jail-time": "",
+        "jail-suspended": "",
+        "fine": "",
+        "fine-suspended": "",
+        "court-cost": "",
+        "court-cost-suspended": "",
+        "total_assessment": "",
+        "total_assessment_paid": "",
+        "other": "11/18/2013 - ADDITIONAL SPECIAL CONDITIONS OF PROBATION (4TH AMENDMENT WAIVER)\n11/18/2013 - FINAL DISPOSITION\n11/18/2013 - PLEA OF GUILTY, WAIVER OF TRIAL BY JURY, AND WAIVER OF RIGHTS\n11/18/2013 - SENTENCE RECOMMENDATION\n12/11/2013 - SPECIAL CONDITIONS FOR INTERGRATED TREATMENT PROGRAM\n12/11/2013 - SPECIAL CONDITIONS OF PROBATION RESIDENTIAL SUBSTANCE ABUSE TREATMENT CENTER\n11/19/2014 - GUILTY PLEA AND PROBATION VIOLATION (11/18/2013) TRANSCRIPT FILED\n10/24/2017 - REVOCATION ORDER\n11/7/2017 - WARRANT FOR ARREST OF PROBATIONER\n11/16/2017 - PETITION TO REVOKE PROBATION\n12/12/2017 - PBH PROBATION REVOCATION HEARING\n1/30/2018 - REVOCATION ORDER\n1/30/2018 - PBH PROBATION REVOCATION HEARING\n1/8/2021 - WARRANT FOR ARREST OF PROBATIONER\n6/14/2021 - CONSENT ORDER FOR BOND\n6/14/2021 - PBH PROBATION REVOCATION HEARING\n7/20/2021 - PETITION TO REVOKE PROBATION\n7/20/2021 - PBH PROBATION REVOCATION HEARING\n5/13/2024 - WARRANT FOR ARREST OF PROBATION\n5/21/2024 - PETITION TO REVOKE PROBATION/ORDER/ REVOCATION ORDER\n10/31/2025 - WARRANT FOR ARREST OF PROBATIONER\n11/10/2025 - WAINER OF RIGHTS AND CONSENT ORDER AMENDING PROBATED SENTENCE"
+      },
+      "events": [],
+      "notes": [
+        {
+          "date": "10/14/2013",
+          "text": "BILL OF INDICTMENT"
+        },
+        {
+          "date": "10/14/2013",
+          "text": "GRAND JURY"
+        },
+        {
+          "date": "10/18/2013",
+          "text": "DISCOVERY COMPLIANCE AND RECIPROCAL REQUEST"
+        },
+        {
+          "date": "10/18/2013",
+          "text": "WITNESS LIST FILED"
+        },
+        {
+          "date": "10/29/2013",
+          "text": "DISCOVERY REQUEST"
+        },
+        {
+          "date": "10/29/2013",
+          "text": "WAIVER OF ARRAIGNMENT AND ENTRY OF APPEARANCE"
+        },
+        {
+          "date": "11/4/2013",
+          "text": "ARN ARRAIGNMENT NOTICE AND CALENDAR SCHE"
+        },
+        {
+          "date": "11/18/2013",
+          "text": "ADDITIONAL SPECIAL CONDITIONS OF PROBATION (4TH AMENDMENT WAIVER)"
+        },
+        {
+          "date": "11/18/2013",
+          "text": "CERTIFICATE OF SERVICE"
+        },
+        {
+          "date": "11/18/2013",
+          "text": "FINAL DISPOSITION"
+        },
+        {
+          "date": "11/18/2013",
+          "text": "PLEA OF GUILTY, WAIVER OF TRIAL BY JURY, AND WAIVER OF RIGHTS"
+        },
+        {
+          "date": "11/18/2013",
+          "text": "SENTENCE RECOMMENDATION"
+        },
+        {
+          "date": "11/18/2013",
+          "text": "TRL TRIAL"
+        },
+        {
+          "date": "12/11/2013",
+          "text": "SPECIAL CONDITIONS FOR INTERGRATED TREATMENT PROGRAM"
+        },
+        {
+          "date": "12/11/2013",
+          "text": "SPECIAL CONDITIONS OF PROBATION RESIDENTIAL SUBSTANCE ABUSE TREATMENT CENTER"
+        },
+        {
+          "date": "1/16/2014",
+          "text": "RECORDED IN MB 142 PG 680-691"
+        },
+        {
+          "date": "11/19/2014",
+          "text": "ARRAIGNMENT (11/04/2013) TRANSCRIPT FILED"
+        },
+        {
+          "date": "11/19/2014",
+          "text": "GUILTY PLEA AND PROBATION VIOLATION (11/18/2013) TRANSCRIPT FILED"
+        },
+        {
+          "date": "10/24/2017",
+          "text": "REVOCATION ORDER"
+        },
+        {
+          "date": "11/7/2017",
+          "text": "WARRANT FOR ARREST OF PROBATIONER"
+        },
+        {
+          "date": "11/16/2017",
+          "text": "PETITION TO REVOKE PROBATION"
+        },
+        {
+          "date": "12/12/2017",
+          "text": "PBH PROBATION REVOCATION HEARING"
+        },
+        {
+          "date": "1/30/2018",
+          "text": "REVOCATION ORDER"
+        },
+        {
+          "date": "1/30/2018",
+          "text": "PBH PROBATION REVOCATION HEARING"
+        },
+        {
+          "date": "11/9/2018",
+          "text": "STH STATUS CONFERENCE HEARING"
+        },
+        {
+          "date": "1/8/2021",
+          "text": "WARRANT FOR ARREST OF PROBATIONER"
+        },
+        {
+          "date": "6/14/2021",
+          "text": "BOND"
+        },
+        {
+          "date": "6/14/2021",
+          "text": "CONSENT ORDER FOR BOND"
+        },
+        {
+          "date": "6/14/2021",
+          "text": "PBH PROBATION REVOCATION HEARING"
+        },
+        {
+          "date": "7/20/2021",
+          "text": "PETITION TO REVOKE PROBATION"
+        },
+        {
+          "date": "7/20/2021",
+          "text": "PBH PROBATION REVOCATION HEARING"
+        },
+        {
+          "date": "5/13/2024",
+          "text": "WARRANT FOR ARREST OF PROBATION"
+        },
+        {
+          "date": "5/21/2024",
+          "text": "PETITION TO REVOKE PROBATION/ORDER/ REVOCATION ORDER"
+        },
+        {
+          "date": "10/31/2025",
+          "text": "WARRANT FOR ARREST OF PROBATIONER"
+        },
+        {
+          "date": "11/10/2025",
+          "text": "WAINER OF RIGHTS AND CONSENT ORDER AMENDING PROBATED SENTENCE"
+        }
+      ]
+    }
+  ]
+}
